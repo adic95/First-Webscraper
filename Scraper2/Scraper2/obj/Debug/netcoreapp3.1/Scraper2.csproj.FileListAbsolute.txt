@@ -1,0 +1,16 @@
+C:\Users\Adi\Desktop\Scaper\Scraper2\Scraper2\bin\Debug\netcoreapp3.1\Scraper2.exe
+C:\Users\Adi\Desktop\Scaper\Scraper2\Scraper2\obj\Debug\netcoreapp3.1\Scraper2.csprojAssemblyReference.cache
+C:\Users\Adi\Desktop\Scaper\Scraper2\Scraper2\obj\Debug\netcoreapp3.1\Scraper2.AssemblyInfoInputs.cache
+C:\Users\Adi\Desktop\Scaper\Scraper2\Scraper2\obj\Debug\netcoreapp3.1\Scraper2.AssemblyInfo.cs
+C:\Users\Adi\Desktop\Scaper\Scraper2\Scraper2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Adi\Desktop\Scaper\Scraper2\Scraper2\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Adi\Desktop\Scaper\Scraper2\Scraper2\obj\Debug\netcoreapp3.1\Scraper2.csproj.CopyComplete
+C:\Users\Adi\Desktop\Scaper\Scraper2\Scraper2\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\Adi\Desktop\Scaper\Scraper2\Scraper2\bin\Debug\netcoreapp3.1\Scraper2.deps.json
+C:\Users\Adi\Desktop\Scaper\Scraper2\Scraper2\bin\Debug\netcoreapp3.1\Scraper2.runtimeconfig.json
+C:\Users\Adi\Desktop\Scaper\Scraper2\Scraper2\bin\Debug\netcoreapp3.1\Scraper2.runtimeconfig.dev.json
+C:\Users\Adi\Desktop\Scaper\Scraper2\Scraper2\bin\Debug\netcoreapp3.1\Scraper2.dll
+C:\Users\Adi\Desktop\Scaper\Scraper2\Scraper2\bin\Debug\netcoreapp3.1\Scraper2.pdb
+C:\Users\Adi\Desktop\Scaper\Scraper2\Scraper2\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+C:\Users\Adi\Desktop\Scaper\Scraper2\Scraper2\obj\Debug\netcoreapp3.1\Scraper2.dll
+C:\Users\Adi\Desktop\Scaper\Scraper2\Scraper2\obj\Debug\netcoreapp3.1\Scraper2.pdb
